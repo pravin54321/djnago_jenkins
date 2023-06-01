@@ -24,7 +24,7 @@ SECRET_KEY = 'h^n6=%x!jfs4-_rn$o87543auodo2&h5dhnvvxn5%5g*kd0@p5'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
-#add ip
+
 ALLOWED_HOSTS = ['*']
 
 
